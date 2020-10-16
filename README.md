@@ -1,0 +1,593 @@
+My LeetCode Solutions
+====================================
+
+## Problems
+
+- [1. Two Sum](https://leetcode.com/problems/two-sum/)
+  - Easy
+  - Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3.4 MB, less than 46.15%
+  - v3 solution
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3.3 MB, less than 53.85%
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 99.27%
+    - Memory Usage: 5 MB, less than 100.00%
+- [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3.3 MB, less than 100.00%
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 91.56%
+    - Memory Usage: 3 MB, less than 85.71%
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.6 MB, less than 50.00% (This must be the best score)
+- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 86.34%
+    - Memory Usage: 3.1 MB, less than 100.00%
+- [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+  - Hard
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.2 MB, less than 100.00%
+- [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 97.20%
+    - Memory Usage: 3.3 MB, less than 100.00%
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
+  - Hard
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.7 MB, less than 100.00%
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 98.96%
+- [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 91.07%
+- [100. Same Tree](https://leetcode.com/problems/same-tree/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.1 MB, less than 100.00%
+- [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3 MB, less than 43.48%
+      - Efficient enough as DFS solution, less memory usage solutions are using BFS
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 96.23%
+    - Memory Usage: 5.2 MB, less than 100.00%
+- [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 4.6 MB, less than 100.00%
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.3 MB, less than 100.00%
+- [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 96.24%
+    - Memory Usage: 3.1 MB, less than 100.00%
+- [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 97.35%
+    - Memory Usage: 3.1 MB, less than 100.00%
+- [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.4 MB, less than 100.00%
+- [136. Single Number](https://leetcode.com/problems/single-number/)
+  - Easy
+  - Solved
+    - Runtime: 8 ms, faster than 92.78%
+    - Memory Usage: 4.7 MB, less than 100.00%
+- [139. Word Break](https://leetcode.com/problems/word-break/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.1 MB, less than 100.00%
+- [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
+  - Hard
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.6 MB, less than 100.00%
+- [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+
+- [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 95.05%
+    - Memory Usage: 3 MB, less than 100.00%
+- [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)
+  - Easy
+  - Completely Solved
+    - Runtime: 316 ms, faster than 94.84%
+    - Memory Usage: 0B, less than 100.00%
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [198. House Robber](https://leetcode.com/problems/house-robber/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
+  - Easy
+  - Completely Solved
+    - Runtime: 8 ms, faster than 96.30%
+    - Memory Usage: 6.1 MB, less than 100.00%
+- [202. Happy Number](https://leetcode.com/problems/happy-number/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
+  - Medium
+  - Completely Solved
+    - Runtime: 8 ms, faster than 98.08%
+    - Memory Usage: 5.9 MB, less than 100.00%
+- [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+  - Medium
+  - Completely Solved
+    - Runtime: 12 ms, faster than 99.55%
+    - Memory Usage: 6.5 MB, less than 86.90%
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.2 MB, less than 100.00%
+- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+  - Easy
+  - Completely Solved
+    - Runtime: 8 ms, faster than 99.49%
+    - Memory Usage: 7.3 MB, less than 100.00%
+- [274. H-Index](https://leetcode.com/problems/h-index/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.3 MB, less than 100.00%
+- [275. H-Index II](https://leetcode.com/problems/h-index-ii/)
+  - Medium
+  - Completely Solved
+    - Runtime: 16 ms, faster than 91.67%
+    - Memory Usage: 6.3 MB, less than 80.00%
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 93.20%
+    - Memory Usage: 3.8 MB, less than 100.00%
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 98.80%
+    - Memory Usage: 3.8 MB, less than 100.00%
+- [292. Nim Game](https://leetcode.com/problems/nim-game/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
+  - Easy
+  - Completely Solved
+    - Runtime: 28 ms, faster than 97.30%
+    - Memory Usage: 8.3 MB, less than 100.00%
+- [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 90.59%
+    - Memory Usage: 3.3 MB, less than 100.00%
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 96.18%
+    - Memory Usage: 4.4 MB, less than 100.00%
+- [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [383. Ransom Note](https://leetcode.com/problems/ransom-note/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 96.25%
+    - Memory Usage: 4.3 MB, less than 100.00%
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00% (4 ms, faster than 100.00%)
+    - Memory Usage: 2 MB, less than 95.24% (6.4 MB, less than 100.00%)
+- [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3.4 MB, less than 50.00%
+  - Retry to find a better solution
+- [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 5.1 MB, less than 100.00%
+- [443. String Compression](https://leetcode.com/problems/string-compression/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 5 MB, less than 100.00%
+- [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 5 MB, less than 100.00%
+- [468. Validate IP Address](https://leetcode.com/problems/validate-ip-address/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 15.38%
+- [476. Number Complement](https://leetcode.com/problems/number-complement/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
+  - Medium
+  - Roughly Solved: `O(N^2)`
+    - Runtime: 672 ms, faster than 5.10%
+    - Memory Usage: 7 MB, less than 100.00%
+  - retry
+- [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)
+  - Medium
+  - Completely Solved (Performance is depending on random inputs)
+    - Runtime: 44 ms, faster than 97.83%
+    - Memory Usage: 7.8 MB, less than 43.48%
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 100.00%
+    - Memory Usage: 4.1 MB, less than 100.00%
+- [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.7 MB, less than 100.00%
+- [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+  - Easy
+  - Completely Solved
+    - Runtime: 24 ms, faster than 96.91%
+    - Memory Usage: 6.2 MB, less than 100.00%
+- [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+  - Medium
+  - Completely Solved
+    - Runtime: 180 ms, faster than 100.00%
+    - Memory Usage: 8.4 MB, less than 100.00%
+  - retry using binary search
+- [687. Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)
+  - Easy
+  - Completely Solved (Original)
+    - Runtime: 68 ms, faster than 100.00%
+    - Memory Usage: 6.9 MB, less than 100.00%
+- [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 100.00%
+    - Memory Usage: 5 MB, less than 100.00%
+- [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+  - Easy
+  - Completely Solved
+    - Runtime: 24 ms, faster than 94.68%
+    - Memory Usage: 6.6 MB, less than 100.00%
+- [704. Binary Search](https://leetcode.com/problems/binary-search/)
+  - Easy
+  - Completely Solved
+    - Runtime: 32 ms, faster than 96.84%
+    - Memory Usage: 6.5 MB, less than 50.00% (This must be the best score)
+- [705. Design HashSet](https://leetcode.com/problems/design-hashset/)
+  - Easy
+  - Completely Solved
+    - Runtime: 80 ms, faster than 97.26%
+    - Memory Usage: 8.4 MB, less than 100.00%
+- [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.9 MB, less than 100.00%
+- [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+  - Medium
+  - Completely Solved
+    - Runtime: 4 ms, faster than 100.00%
+    - Memory Usage: 4.4 MB, less than 71.43%
+- [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/)
+  - Medium
+  - Completely Solved (Go)
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+  - Completely Solved (Python3)
+    - Runtime: 24 ms, faster than 98.70%
+    - Memory Usage: 12.7 MB, less than 100.00%
+- [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/)
+  - Medium
+  - Completely Solved
+    - Runtime: 32 ms, faster than 100.00%
+    - Memory Usage: 6.5 MB, less than 96.30%
+- [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.2 MB, less than 100.00%
+- [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+  - Easy
+  - Completely Solved
+    - Runtime: 4 ms, faster than 94.34%
+    - Memory Usage: 3.7 MB, less than 100.00%
+- [845. Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)
+  - Medium
+  - Completely Solved
+    - Runtime: 12 ms, faster than 100.00%
+    - Memory Usage: 5.9 MB, less than 100.00%
+  - find out an another solution
+- [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.5 MB, less than 100.00%
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/)
+  - Medium
+  - Completely Solved
+    - Runtime: 212 ms, faster than 28.57% 
+    - Memory Usage: 8.2 MB, less than 100.00%
+- [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 5.9 MB, less than 80.00%
+- [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
+  - Easy
+  - Completely Solved
+    - Runtime: 120 ms, faster than 100.00%
+    - Memory Usage: 9.8 MB, less than 100.00% (Min score: 8.1 MB)
+- [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
+  - Easy
+  - Completely Solved
+    - Runtime: 24 ms, faster than 89.92%
+    - Memory Usage: 6.3 MB, less than 100.00%
+- [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+  - Easy
+  - Completely Solved
+    - Runtime: 24 ms, faster than 100.00%
+    - Memory Usage: 6.5 MB, less than 100.00%
+- [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+  - Medium
+  - Completely Solved
+    - Runtime: 16 ms, faster than 97.97%
+    - Memory Usage: 6.3 MB, less than 100.00%
+- [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.9 MB, less than 100.00%
+- [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 3.2 MB, less than 100.00%
+- [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 1.9 MB, less than 100.00%
+- [1035. Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.3 MB, less than 100.00%
+- [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [1051. Height Checker](https://leetcode.com/problems/height-checker/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.2 MB, less than 100.00%
+- [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.3 MB, less than 100.00%
+- [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/)
+  - Medium
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 4.3 MB, less than 100.00%
+  - retry
+- [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.8 MB, less than 100.00%
+- [1217. Play with Chips](https://leetcode.com/problems/play-with-chips/)
+  - Easy
+  - Weekly Contest 157 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.1 MB, less than 100.00%
+- [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/)
+  - Medium
+  - Weekly Contest 157 03
+  - Roughly Solved
+    - Runtime: 140 ms, faster than 11.94%
+    - Memory Usage: 2.6 MB, less than 100.00%
+- [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+  - Easy
+  - Weekly Contest 158 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [1222. Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/)
+  - Medium
+  - Weekly Contest 158 02
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.5 MB, less than 100.00%
+- [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)
+  - Easy
+  - Weekly Contest 159 01
+  - Completely Solved
+    - Runtime: 4 ms, faster than 94.37%
+    - Memory Usage: 3.7 MB, less than 100.00%
+- [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)
+  - Medium
+  - Weekly Contest 159 02
+  - Completely Solved
+    - Runtime: X ms, faster than 100.00%
+    - Memory Usage: X MB, less than 100.00%
+- [1234. Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/)
+  - Medium
+  - Weekly Contest 159 03
+  - Completely Solved
+    - Runtime: X ms, faster than 100.00%
+    - Memory Usage: X MB, less than 100.00%
+- [1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
+  - Easy
+  - Weekly Contest 162 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.5 MB, less than 100.00%
+- [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
+  - Easy
+  - Weekly Contest 165 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2 MB, less than 100.00%
+- [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+  - Easy
+  - Weekly Contest 178 01
+  - Completely Solved
+    - Runtime: 4 ms, faster than 100.00%
+    - Memory Usage: 3.1 MB, less than 100.00%
+- [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)
+  - Easy
+  - Weekly Contest 179 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.1 MB, less than 100.00%
+- [1375. Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii/)
+  - Medium
+  - Weekly Contest 179 02
+  - Completely Solved
+    - Runtime: 56 ms, faster than 100.00%
+    - Memory Usage: 7.1 MB, less than 100.00%
+- [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)
+  - Medium
+  - Weekly Contest 179 03
+  - Completely Solved
+    - Runtime: 156 ms, faster than 100.00%
+    - Memory Usage: 10.6 MB, less than 100.00%
+- [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+  - Easy
+  - Weekly Contest 180 01
+  - Completely Solved
+    - Runtime: 16 ms, faster than 100.00%
+    - Memory Usage: 6 MB, less than 100.00%
+- [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
+  - Easy
+  - Weekly Contest 181 01
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.1 MB, less than 100.00%
+- [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)
+  - Easy
+  - Completely Solved
+    - Runtime: 0 ms, faster than 100.00%
+    - Memory Usage: 2.3 MB, less than 100.00%
+
+
+## Posts
+
+- [Binary Search and Cumulative Sum solution in Go](https://leetcode.com/discuss/topic/640430)
+- [Only 3 lines of code in Go 😎, Time: 4 ms - O(logN), Space: 4.1 MB - O(1)](https://leetcode.com/discuss/topic/629543)
+- [The coolest solution using bit manipulation in Go](https://leetcode.com/discuss/topic/550682)
+- [The clearest solution in Go, Runtime: 0 ms Memory Usage: 2.1 MB](https://leetcode.com/discuss/topic/548610)
+- [The lucky number appears in a Matrix at most once, Time: O(N*M) Space: O(N)](https://leetcode.com/discuss/topic/541005)
+- [Two ways of DFS solutions (from bottom to top, from top to bottom) in Go](https://leetcode.com/discuss/topic/533918)
+- [Time: O(l+n+m) Space: O(n+m), the clearest solution in Go](https://leetcode.com/discuss/topic/526876)
+- [O(N), O(NlogN), O(n^2) 3 + α different solutions in Go](https://leetcode.com/discuss/topic/526266)
+- [Dynamically modified multi-layer arrays solution in Go](https://leetcode.com/discuss/topic/482798)
+- [Clear solution using a 3x3 int array and char code in Go](https://leetcode.com/discuss/topic/449199)
+- [Just 1 line solution 💪🔥 (with another expected regular solution😂) in Go](https://leetcode.com/discuss/topic/447174)
+- [4 + 1 (20 ms, 6.3MB) different solutions in Go](https://leetcode.com/discuss/topic/444563)
+- [4 different solutions in Go](https://leetcode.com/discuss/topic/444555)
+- [Clear divide and conquer approach in Go](https://leetcode.com/discuss/topic/436028)
+
+
+## Helpers
+
+- BuildTreeNode
+  - Build TreeNode from LeetCode's TreeNode string
